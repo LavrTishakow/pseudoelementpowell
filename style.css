@@ -31,7 +31,9 @@ a[data-tool-tip]::after{
 	transform: scale(0);
 }
 
-a[data-tool-tip]:hover::after
+a[data-tool-tip]:hover::after{
+	
+}
 
 p::before {
 content: 'hello';
